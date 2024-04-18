@@ -8,3 +8,6 @@ ln -sf ${shell_dir}/Zsh/.zprofile ~
 
 # Oh My Zsh
 ln -sf ${shell_dir}/OhMyZsh/hietan.zsh-theme ~/.oh-my-zsh/themes
+
+# Vim
+ln -sf ${shell_dir}/Vim/.vimrc ~
